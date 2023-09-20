@@ -16,7 +16,7 @@ Este projeto visa criar um sistema de simulação de um caixa eletronico, para t
 - [ ] Saques
 - [ ] Depositos
 - [ ] Consultas
-- [ ] Pagamento
+- [ ] Pagamentos
 
 ## Demonstração da Aplicação
 Realizando
